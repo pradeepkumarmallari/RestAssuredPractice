@@ -2,7 +2,7 @@
 public class Demo {
 	
 	public void method1() {
-		System.out.println("Alpha");
+		System.out.println("Gaama");
 	}
 
 	public static void main(String[] args) {
